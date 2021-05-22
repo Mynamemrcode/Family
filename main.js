@@ -1,5 +1,5 @@
 var i=0;
-var images=["https://www.netclipart.com/pp/m/100-1004279_cool-indian-dad-png-father-clipart-png.png","https://tse2.mm.bing.net/th?id=OIP.Sl4xAbUBSGnfpmvczmV4VgHaDW&pid=Api&P=0&w=439&h=199", "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/A_Happy_Working_Mom_Cartoon.svg/1200px-A_Happy_Working_Mom_Cartoon.svg.png"];
+var images=["","https://tse2.mm.bing.net/th?id=OIP.Sl4xAbUBSGnfpmvczmV4VgHaDW&pid=Api&P=0&w=439&h=199", "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/A_Happy_Working_Mom_Cartoon.svg/1200px-A_Happy_Working_Mom_Cartoon.svg.png"];
 function MrMyFunction1() {
 document.getElementById("image1").src=images[i] ;
 
